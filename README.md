@@ -1,3 +1,6 @@
+## Deployed Link 
+https://6566c2974320961906a9dcb1--sparkling-faloodeh-73878c.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
